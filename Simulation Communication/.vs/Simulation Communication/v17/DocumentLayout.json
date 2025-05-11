@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9776268-7EF3-4BFE-A81F-B27B53202BC3}|Simulation Communication.AppHost\\Simulation Communication.AppHost.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\simulation communication.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9776268-7EF3-4BFE-A81F-B27B53202BC3}|Simulation Communication.AppHost\\Simulation Communication.AppHost.csproj|solutionrelative:simulation communication.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9776268-7EF3-4BFE-A81F-B27B53202BC3}|Simulation Communication.AppHost\\Simulation Communication.AppHost.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\simulation communication.apphost\\simulation communication.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9776268-7EF3-4BFE-A81F-B27B53202BC3}|Simulation Communication.AppHost\\Simulation Communication.AppHost.csproj|solutionrelative:simulation communication.apphost\\simulation communication.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\simulation communication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\simulation communication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\simulation communication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\simulation communication\\simulation communication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\simulation communication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A28C36-02B4-4F5F-5B3E-30B400D9F336}|Simulation Communication.ServiceDefaults\\Simulation Communication.ServiceDefaults.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\simulation communication.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A28C36-02B4-4F5F-5B3E-30B400D9F336}|Simulation Communication.ServiceDefaults\\Simulation Communication.ServiceDefaults.csproj|solutionrelative:simulation communication.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\simulation communication\\simulation communication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01768AD8-D54A-1AA0-6122-A89EC9015D3C}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f677620d-05fd-48ed-8423-72a12db4deef}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulation Communication.AppHost.csproj",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication.AppHost\\Simulation Communication.AppHost.csproj",
+              "RelativeDocumentMoniker": "Simulation Communication.AppHost\\Simulation Communication.AppHost.csproj",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication.AppHost\\Simulation Communication.AppHost.csproj",
+              "RelativeToolTip": "Simulation Communication.AppHost\\Simulation Communication.AppHost.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T15:09:24.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\Dockerfile",
+              "RelativeDocumentMoniker": "Simulation Communication\\Dockerfile",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\Dockerfile",
+              "RelativeToolTip": "Simulation Communication\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-11T14:00:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Simulation Communication\\appsettings.Development.json",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\appsettings.Development.json",
+              "RelativeToolTip": "Simulation Communication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T13:57:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-11T13:57:03.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\Program.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\Program.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\Program.cs",
+              "RelativeToolTip": "Simulation Communication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:56:55.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAhwN0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-11T13:56:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "Simulation Communication.AppHost\\Program.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication.AppHost\\Program.cs",
+              "RelativeToolTip": "Simulation Communication.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:56:00.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Simulation Communication.csproj",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\Simulation Communication.csproj",
+              "RelativeDocumentMoniker": "Simulation Communication\\Simulation Communication.csproj",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\Simulation Communication.csproj",
+              "RelativeToolTip": "Simulation Communication\\Simulation Communication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T13:56:17.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "Simulation Communication.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "Simulation Communication.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:55:42.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\WeatherForecast.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\Simulation Communication\\Simulation Communication\\WeatherForecast.cs",
+              "RelativeToolTip": "Simulation Communication\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:54:55.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

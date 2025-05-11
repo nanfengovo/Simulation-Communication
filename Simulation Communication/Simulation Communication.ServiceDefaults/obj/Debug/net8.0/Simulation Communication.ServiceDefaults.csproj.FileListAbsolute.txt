@@ -1,0 +1,13 @@
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\bin\Debug\net8.0\Simulation Communication.ServiceDefaults.deps.json
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\bin\Debug\net8.0\Simulation Communication.ServiceDefaults.dll
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\bin\Debug\net8.0\Simulation Communication.ServiceDefaults.pdb
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\Simulation Communication.ServiceDefaults.csproj.AssemblyReference.cache
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\Simulation Communication.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\Simulation Communication.ServiceDefaults.AssemblyInfoInputs.cache
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\Simulation Communication.ServiceDefaults.AssemblyInfo.cs
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\Simulation Communication.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\Simulation Communication.ServiceDefaults.sourcelink.json
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\Simulation Communication.ServiceDefaults.dll
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\refint\Simulation Communication.ServiceDefaults.dll
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\Simulation Communication.ServiceDefaults.pdb
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.ServiceDefaults\obj\Debug\net8.0\ref\Simulation Communication.ServiceDefaults.dll

@@ -1,0 +1,8 @@
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.AppHost\obj\Debug\net8.0\Simulation Communication.AppHost.csproj.AssemblyReference.cache
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.AppHost\obj\Debug\net8.0\Simulation Communication.AppHost.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.AppHost\obj\Debug\net8.0\Simulation Communication.AppHost.AssemblyInfoInputs.cache
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.AppHost\obj\Debug\net8.0\Simulation Communication.AppHost.AssemblyInfo.cs
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.AppHost\obj\Debug\net8.0\Simulation Communication.AppHost.csproj.CoreCompileInputs.cache
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.AppHost\obj\Debug\net8.0\Aspire\references\Simulation_Communication.ProjectMetadata.g.cs
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.AppHost\obj\Debug\net8.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
+E:\Code\项目--学习\Simulation Communication\Simulation Communication\Simulation Communication.AppHost\obj\Debug\net8.0\Simulation Communication.AppHost.sourcelink.json
