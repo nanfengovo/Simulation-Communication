@@ -7,6 +7,42 @@
       "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\request\\checkrequestinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\request\\checkrequestinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\pluginunit\\notcheckjwtversionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\pluginunit\\notcheckjwtversionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\pluginunit\\jwtversioncheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\pluginunit\\jwtversioncheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\pluginunit\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\pluginunit\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\model\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\model\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\db\\dbconfig\\menuentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\db\\dbconfig\\menuentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\apihelper\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\apihelper\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,32 +55,8 @@
       "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\simulation communication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\request\\checkrequestinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\request\\checkrequestinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\apihelper\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\apihelper\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\pluginunit\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\pluginunit\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\pluginunit\\jwtversioncheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\pluginunit\\jwtversioncheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\pluginunit\\notcheckjwtversionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\pluginunit\\notcheckjwtversionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\db\\dbconfig\\userentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\db\\dbconfig\\userentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\db\\dbconfig\\menuentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\db\\dbconfig\\menuentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -53,18 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\model\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\model\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|solutionrelative:simulation communication\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24349A6F-AB66-47D6-B7CA-FDDACE55D973}|Simulation Communication\\Simulation Communication.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\api\\simulation communication\\simulation communication\\db\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,110 +110,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Simulation Communication",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Simulation Communication.csproj",
-              "RelativeDocumentMoniker": "Simulation Communication\\Simulation Communication.csproj",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Simulation Communication.csproj",
-              "RelativeToolTip": "Simulation Communication\\Simulation Communication.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T11:36:13.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CheckRequestInfo.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Request\\CheckRequestInfo.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\Request\\CheckRequestInfo.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Request\\CheckRequestInfo.cs",
-              "RelativeToolTip": "Simulation Communication\\Request\\CheckRequestInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:24:00.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Result.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\APIHelper\\Result.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\APIHelper\\Result.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\APIHelper\\Result.cs",
-              "RelativeToolTip": "Simulation Communication\\APIHelper\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\DTOS\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\Model\\DTOS\\AddUserDTO.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\DTOS\\AddUserDTO.cs",
+              "RelativeToolTip": "Simulation Communication\\Model\\DTOS\\AddUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:22:54.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorizeController.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Controllers\\AuthorizeController.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\Controllers\\AuthorizeController.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Controllers\\AuthorizeController.cs",
-              "RelativeToolTip": "Simulation Communication\\Controllers\\AuthorizeController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAjwFYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T11:18:26.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Program.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\Program.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Program.cs*",
-              "RelativeToolTip": "Simulation Communication\\Program.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:21:00.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Simulation Communication\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwBgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:29:58.73Z",
+              "WhenOpened": "2025-05-11T15:37:16.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\Menu.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\Model\\Menu.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\Menu.cs",
+              "RelativeToolTip": "Simulation Communication\\Model\\Menu.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:04:47.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "JwtSetting.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\PlugInUnit\\JwtSetting.cs",
               "RelativeDocumentMoniker": "Simulation Communication\\PlugInUnit\\JwtSetting.cs",
               "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\PlugInUnit\\JwtSetting.cs",
               "RelativeToolTip": "Simulation Communication\\PlugInUnit\\JwtSetting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T11:20:14.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "JwtVersionCheckFilter.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\PlugInUnit\\JwtVersionCheckFilter.cs",
               "RelativeDocumentMoniker": "Simulation Communication\\PlugInUnit\\JwtVersionCheckFilter.cs",
               "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\PlugInUnit\\JwtVersionCheckFilter.cs",
               "RelativeToolTip": "Simulation Communication\\PlugInUnit\\JwtVersionCheckFilter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T11:15:58.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "NotCheckJwtVersionAttribute.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\PlugInUnit\\NotCheckJwtVersionAttribute.cs",
               "RelativeDocumentMoniker": "Simulation Communication\\PlugInUnit\\NotCheckJwtVersionAttribute.cs",
@@ -226,7 +175,110 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckRequestInfo.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Request\\CheckRequestInfo.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\Request\\CheckRequestInfo.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Request\\CheckRequestInfo.cs",
+              "RelativeToolTip": "Simulation Communication\\Request\\CheckRequestInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:24:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Program.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\Program.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Program.cs",
+              "RelativeToolTip": "Simulation Communication\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwCwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:21:00.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuEntityConfig.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\DB\\DBConfig\\MenuEntityConfig.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\DB\\DBConfig\\MenuEntityConfig.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\DB\\DBConfig\\MenuEntityConfig.cs",
+              "RelativeToolTip": "Simulation Communication\\DB\\DBConfig\\MenuEntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:24:52.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Result.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\APIHelper\\Result.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\APIHelper\\Result.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\APIHelper\\Result.cs",
+              "RelativeToolTip": "Simulation Communication\\APIHelper\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:22:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\Model\\User.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\User.cs",
+              "RelativeToolTip": "Simulation Communication\\Model\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:04:48.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Simulation Communication",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Simulation Communication.csproj",
+              "RelativeDocumentMoniker": "Simulation Communication\\Simulation Communication.csproj",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Simulation Communication.csproj",
+              "RelativeToolTip": "Simulation Communication\\Simulation Communication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T11:36:13.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Simulation Communication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:29:58.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorizeController.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Controllers\\AuthorizeController.cs",
+              "RelativeDocumentMoniker": "Simulation Communication\\Controllers\\AuthorizeController.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Controllers\\AuthorizeController.cs",
+              "RelativeToolTip": "Simulation Communication\\Controllers\\AuthorizeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:18:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\appsettings.json",
               "RelativeDocumentMoniker": "Simulation Communication\\appsettings.json",
@@ -239,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "UserEntityConfig.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\DB\\DBConfig\\UserEntityConfig.cs",
               "RelativeDocumentMoniker": "Simulation Communication\\DB\\DBConfig\\UserEntityConfig.cs",
@@ -248,19 +300,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T15:04:49.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuEntityConfig.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\DB\\DBConfig\\MenuEntityConfig.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\DB\\DBConfig\\MenuEntityConfig.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\DB\\DBConfig\\MenuEntityConfig.cs",
-              "RelativeToolTip": "Simulation Communication\\DB\\DBConfig\\MenuEntityConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:24:52.402Z",
               "EditorCaption": ""
             },
             {
@@ -278,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Simulation Communication\\appsettings.Development.json",
@@ -287,45 +326,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-11T15:04:48.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\Model\\User.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\User.cs",
-              "RelativeToolTip": "Simulation Communication\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBMwCgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:04:48.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddUserDTO.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\DTOS\\AddUserDTO.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\Model\\DTOS\\AddUserDTO.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\DTOS\\AddUserDTO.cs",
-              "RelativeToolTip": "Simulation Communication\\Model\\DTOS\\AddUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:37:16.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\Menu.cs",
-              "RelativeDocumentMoniker": "Simulation Communication\\Model\\Menu.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\API\\Simulation Communication\\Simulation Communication\\Model\\Menu.cs",
-              "RelativeToolTip": "Simulation Communication\\Model\\Menu.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T15:04:47.984Z",
               "EditorCaption": ""
             },
             {

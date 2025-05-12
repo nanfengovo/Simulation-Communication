@@ -51,7 +51,7 @@ namespace Simulation_Communication
             {
                 options.AddPolicy("DevCors", policy =>
                 {
-                    policy.WithOrigins("http://localhost:8889") // 前端地址
+                    policy.WithOrigins("http://localhost:5174") // 前端地址
                     .AllowAnyHeader()
                     .AllowAnyMethod()
                     .AllowCredentials(); // 如果前端需要传 cookies
