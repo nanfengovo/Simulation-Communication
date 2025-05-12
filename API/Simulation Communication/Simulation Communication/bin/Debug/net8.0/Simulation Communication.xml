@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Simulation Communication</name>
+    </assembly>
+    <members>
+        <member name="P:Simulation_Communication.APIHelper.Result.Code">
+            <summary>
+            返回给前端的代码
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.APIHelper.Result.Msg">
+            <summary>
+            信息
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.APIHelper.Result.Data">
+            <summary>
+            数据
+            </summary>
+        </member>
+        <member name="T:Simulation_Communication.Controllers.AuthorizeController">
+            <summary>
+            鉴权模块
+            </summary>
+        </member>
+        <member name="M:Simulation_Communication.Controllers.AuthorizeController.Login(Request.CheckRequestInfo)">
+            <summary>
+            登录鉴权
+            </summary>
+            <param name="info"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Simulation_Communication.Controllers.UserController.GetAllUsers">
+            <summary>
+            获取所有的用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Simulation_Communication.Controllers.UserController.AddUser(Simulation_Communication.Model.DTOS.AddUserDTO)">
+            <summary>
+            添加用户
+            </summary>
+            <param name="userDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Simulation_Communication.Migrations.init">
+            <inheritdoc />
+        </member>
+        <member name="M:Simulation_Communication.Migrations.init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Simulation_Communication.Migrations.init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Simulation_Communication.Migrations.init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddUserDTO.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddUserDTO.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddUserDTO.CreateTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddUserDTO.LastModified">
+            <summary>
+            最后修改时间
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.Id">
+            <summary>
+            菜单id
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.Icon">
+            <summary>
+            菜单图标
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.Title">
+            <summary>
+            菜单标题
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.Index">
+            <summary>
+            菜单顺序
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.ParentsId">
+            <summary>
+            父菜单id
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.SubMenu">
+            <summary>
+            子菜单id
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.Descriptions">
+            <summary>
+            关于菜单的描述
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.URL">
+            <summary>
+            菜单地址/文件
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.IsDelete">
+            <summary>
+            软删除
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.CreateTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.Menu.LastModified">
+            <summary>
+            最后修改时间
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.Id">
+            <summary>
+            id  
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.Menu">
+            <summary>
+            菜单
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.JwtVersion">
+            <summary>
+            jwt版本
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.IsOpen">
+            <summary>
+            是否启用
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.IsDeleted">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.IsLocked">
+            <summary>
+            是否被锁定
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.CreateTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.User.LastModified">
+            <summary>
+            最后修改时间
+            </summary>
+        </member>
+    </members>
+</doc>

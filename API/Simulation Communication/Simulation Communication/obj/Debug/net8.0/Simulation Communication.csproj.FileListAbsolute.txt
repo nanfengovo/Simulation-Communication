@@ -146,3 +146,6 @@ E:\Code\项目--学习\Simulation Communication\API\Simulation Communication\Sim
 E:\Code\项目--学习\Simulation Communication\API\Simulation Communication\Simulation Communication\obj\Debug\net8.0\Simulation Communication.pdb
 E:\Code\项目--学习\Simulation Communication\API\Simulation Communication\Simulation Communication\obj\Debug\net8.0\Simulation Communication.genruntimeconfig.cache
 E:\Code\项目--学习\Simulation Communication\API\Simulation Communication\Simulation Communication\obj\Debug\net8.0\ref\Simulation Communication.dll
+E:\Code\项目--学习\Simulation Communication\API\Simulation Communication\Simulation Communication\bin\Debug\net8.0\Simulation Communication.xml
+E:\Code\项目--学习\Simulation Communication\API\Simulation Communication\Simulation Communication\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Code\项目--学习\Simulation Communication\API\Simulation Communication\Simulation Communication\obj\Debug\net8.0\Simulation Communication.xml

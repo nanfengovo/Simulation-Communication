@@ -28,7 +28,7 @@ namespace Simulation_Communication.Model
         /// <summary>
         /// jwt版本
         /// </summary>
-        public int? JwtVersion { get; set; }
+        public int? JwtVersion { get; set; } = 0;
 
         /// <summary>
         /// 是否启用

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Simulation_Communication.DB;
 using Simulation_Communication.Model;
@@ -21,11 +22,12 @@ namespace Simulation_Communication.Controllers
         /// 获取所有的用户
         /// </summary>
         /// <returns></returns>
-        
+        [Authorize]
         [HttpGet]
-        public List<User> GetAllUsers()
+        public IActionResult GetAllUsers()
         {
-            return _dbContext.Users.ToList();   
+            var users = _dbContext.Users.ToList();
+            return Ok(users);
         }
 
         /// <summary>
@@ -33,6 +35,7 @@ namespace Simulation_Communication.Controllers
         /// </summary>
         /// <param name="userDTO"></param>
         /// <returns></returns>
+        [Authorize]
         [HttpPost]
         public IActionResult AddUser(AddUserDTO userDTO)
         {
@@ -52,5 +55,7 @@ namespace Simulation_Communication.Controllers
             return BadRequest("failed");
             
         }
+
+
     }
 }

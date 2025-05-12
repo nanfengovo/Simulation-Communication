@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "Simulation_Communication.Controllers.AuthorizeController",
+    "Method": "Login",
+    "RelativePath": "api/Authorize/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "info",
+        "Type": "Request.CheckRequestInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Simulation_Communication.APIHelper.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Simulation_Communication.Controllers.UserController",
     "Method": "AddUser",
     "RelativePath": "api/User/AddUser",
@@ -23,16 +49,6 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[Simulation_Communication.Model.User, Simulation Communication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]
