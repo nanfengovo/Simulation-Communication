@@ -19,6 +19,60 @@
             数据
             </summary>
         </member>
+        <member name="T:Simulation_Communication.ApplicationService.MenuServe.IMenuService">
+            <summary>
+            菜单服务接口
+            </summary>
+        </member>
+        <member name="M:Simulation_Communication.ApplicationService.MenuServe.IMenuService.GetAllMenu">
+            <summary>
+            获取所有的菜单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Simulation_Communication.ApplicationService.MenuServe.IMenuService.AddMenuAsync(Simulation_Communication.Model.DTOS.AddMenuDTO)">
+            <summary>
+            添加菜单
+            </summary>
+            <param name="addMenuDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Simulation_Communication.ApplicationService.MenuServe.MenuService">
+            <summary>
+            菜单服务实现类
+            </summary>
+        </member>
+        <member name="F:Simulation_Communication.ApplicationService.MenuServe.MenuService._myDbContext">
+            <summary>
+            数据上下文
+            </summary>
+        </member>
+        <member name="F:Simulation_Communication.ApplicationService.MenuServe.MenuService._logger">
+            <summary>
+            日志
+            </summary>
+        </member>
+        <member name="M:Simulation_Communication.ApplicationService.MenuServe.MenuService.#ctor(Simulation_Communication.DB.MyDbContext,Microsoft.Extensions.Logging.ILogger{Simulation_Communication.ApplicationService.MenuServe.MenuService})">
+            <summary>
+            构造函数注入
+            </summary>
+            <param name="myDbContext"></param>
+        </member>
+        <member name="M:Simulation_Communication.ApplicationService.MenuServe.MenuService.GetAllMenu">
+            <summary>
+            获取所有的菜单
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:Simulation_Communication.ApplicationService.MenuServe.MenuService.AddMenuAsync(Simulation_Communication.Model.DTOS.AddMenuDTO)">
+            <summary>
+            添加菜单
+            </summary>
+            <param name="addMenuDTO"></param>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
         <member name="T:Simulation_Communication.Controllers.AuthorizeController">
             <summary>
             鉴权模块
@@ -29,6 +83,30 @@
             登录鉴权
             </summary>
             <param name="info"></param>
+            <returns></returns>
+        </member>
+        <member name="F:Simulation_Communication.Controllers.MenuController._menuService">
+            <summary>
+            菜单服务接口
+            </summary>
+        </member>
+        <member name="M:Simulation_Communication.Controllers.MenuController.#ctor(Simulation_Communication.ApplicationService.MenuServe.IMenuService)">
+            <summary>
+            构造函数注入
+            </summary>
+            <param name="menuService"></param>
+        </member>
+        <member name="M:Simulation_Communication.Controllers.MenuController.GetAllMenu">
+            <summary>
+            获取所有的菜单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Simulation_Communication.Controllers.MenuController.AddMenu(Simulation_Communication.Model.DTOS.AddMenuDTO)">
+            <summary>
+            添加菜单
+            </summary>
+            <param name="menuDTO"></param>
             <returns></returns>
         </member>
         <member name="M:Simulation_Communication.Controllers.UserController.GetAllUsers">
@@ -55,6 +133,36 @@
         </member>
         <member name="M:Simulation_Communication.Migrations.init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
             <inheritdoc />
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddMenuDTO.Icon">
+            <summary>
+            菜单图标
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddMenuDTO.Title">
+            <summary>
+            菜单标题
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddMenuDTO.Index">
+            <summary>
+            菜单顺序
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddMenuDTO.ParentsId">
+            <summary>
+            父菜单id
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddMenuDTO.Descriptions">
+            <summary>
+            关于菜单的描述
+            </summary>
+        </member>
+        <member name="P:Simulation_Communication.Model.DTOS.AddMenuDTO.URL">
+            <summary>
+            菜单地址/文件
+            </summary>
         </member>
         <member name="P:Simulation_Communication.Model.DTOS.AddUserDTO.UserName">
             <summary>

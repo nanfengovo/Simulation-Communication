@@ -13,9 +13,12 @@ namespace Simulation_Communication.Controllers
     {
         public readonly MyDbContext _dbContext;
 
-        public UserController(MyDbContext dbContext)
+        public readonly ILogger<UserController> _logger;
+
+        public UserController(MyDbContext dbContext, ILogger<UserController> logger)
         {
             _dbContext = dbContext;
+            _logger = logger;
         }
 
         /// <summary>
@@ -27,6 +30,7 @@ namespace Simulation_Communication.Controllers
         public IActionResult GetAllUsers()
         {
             var users = _dbContext.Users.ToList();
+            _logger.LogInformation($"{DateTime.Now},获取一次用户列表");
             return Ok(users);
         }
 
@@ -55,6 +59,8 @@ namespace Simulation_Communication.Controllers
             return BadRequest("failed");
             
         }
+
+
 
 
     }

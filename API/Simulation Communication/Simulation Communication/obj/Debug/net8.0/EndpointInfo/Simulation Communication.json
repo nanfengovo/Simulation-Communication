@@ -55,6 +55,50 @@
         }
       }
     },
+    "/api/Menu": {
+      "get": {
+        "tags": [
+          "Menu"
+        ],
+        "summary": "获取所有的菜单",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Menu"
+        ],
+        "summary": "添加菜单",
+        "requestBody": {
+          "description": "",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddMenuDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddMenuDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddMenuDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/User/GetAllUsers": {
       "get": {
         "tags": [
@@ -104,6 +148,44 @@
   },
   "components": {
     "schemas": {
+      "AddMenuDTO": {
+        "type": "object",
+        "properties": {
+          "icon": {
+            "type": "string",
+            "description": "菜单图标",
+            "nullable": true
+          },
+          "title": {
+            "type": "string",
+            "description": "菜单标题",
+            "nullable": true
+          },
+          "index": {
+            "type": "integer",
+            "description": "菜单顺序",
+            "format": "int32",
+            "nullable": true
+          },
+          "parentsId": {
+            "type": "integer",
+            "description": "父菜单id",
+            "format": "int32",
+            "nullable": true
+          },
+          "descriptions": {
+            "type": "string",
+            "description": "关于菜单的描述",
+            "nullable": true
+          },
+          "url": {
+            "type": "string",
+            "description": "菜单地址/文件",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "AddUserDTO": {
         "required": [
           "password",

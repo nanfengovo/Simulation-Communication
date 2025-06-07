@@ -26,6 +26,32 @@
     ]
   },
   {
+    "ContainingType": "Simulation_Communication.Controllers.MenuController",
+    "Method": "GetAllMenu",
+    "RelativePath": "api/Menu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Simulation_Communication.Controllers.MenuController",
+    "Method": "AddMenu",
+    "RelativePath": "api/Menu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuDTO",
+        "Type": "Simulation_Communication.Model.DTOS.AddMenuDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Simulation_Communication.Controllers.UserController",
     "Method": "AddUser",
     "RelativePath": "api/User/AddUser",

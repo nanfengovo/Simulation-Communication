@@ -1,0 +1,47 @@
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.csproj.AssemblyReference.cache
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\AboutUsUC.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\LoginUC.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\MainWin.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\PersonalUC.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\SettingUC.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\SysSetUC.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\App.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI_Content.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI_MarkupCompile.cache
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI_MarkupCompile.lref
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Simulation Communication_WPFUI.exe
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Simulation Communication_WPFUI.deps.json
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Simulation Communication_WPFUI.runtimeconfig.json
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Simulation Communication_WPFUI.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Simulation Communication_WPFUI.pdb
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\DryIoc.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Prism.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Prism.DryIoc.Wpf.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\Prism.Wpf.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\bin\Debug\net6.0-windows\RestSharp.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\App.baml
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\AboutUsUC.baml
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\LoginUC.baml
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\MainWin.baml
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\PersonalUC.baml
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\SettingUC.baml
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Views\SysSetUC.baml
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.g.resources
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.AssemblyInfoInputs.cache
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.AssemblyInfo.cs
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.csproj.CoreCompileInputs.cache
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.sourcelink.json
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulati.B5EA3EE5.Up2Date
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\refint\Simulation Communication_WPFUI.dll
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.pdb
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\Simulation Communication_WPFUI.genruntimeconfig.cache
+E:\Code\项目--学习\Simulation Communication\UI\WPF\Simulation Communication_WPFUI\Simulation Communication_WPFUI\obj\Debug\net6.0-windows\ref\Simulation Communication_WPFUI.dll

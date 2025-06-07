@@ -30,7 +30,7 @@
         /// <summary>
         /// 子菜单id
         /// </summary>
-        public int? SubMenu { get; set; }
+        public List<Menu>? SubMenu { get; set; }
 
         /// <summary>
         /// 关于菜单的描述

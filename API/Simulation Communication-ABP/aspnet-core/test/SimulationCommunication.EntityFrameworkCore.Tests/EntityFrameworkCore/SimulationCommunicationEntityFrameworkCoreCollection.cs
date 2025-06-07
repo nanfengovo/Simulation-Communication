@@ -1,0 +1,9 @@
+﻿using Xunit;
+
+namespace SimulationCommunication.EntityFrameworkCore;
+
+[CollectionDefinition(SimulationCommunicationTestConsts.CollectionDefinitionName)]
+public class SimulationCommunicationEntityFrameworkCoreCollection : ICollectionFixture<SimulationCommunicationEntityFrameworkCoreFixture>
+{
+
+}

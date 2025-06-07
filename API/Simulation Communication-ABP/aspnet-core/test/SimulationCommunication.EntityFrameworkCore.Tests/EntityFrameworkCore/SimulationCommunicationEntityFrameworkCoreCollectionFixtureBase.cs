@@ -1,0 +1,9 @@
+﻿using SimulationCommunication.EntityFrameworkCore;
+using Xunit;
+
+namespace SimulationCommunication.EntityFrameworkCore;
+
+public class SimulationCommunicationEntityFrameworkCoreCollectionFixtureBase : ICollectionFixture<SimulationCommunicationEntityFrameworkCoreFixture>
+{
+
+}

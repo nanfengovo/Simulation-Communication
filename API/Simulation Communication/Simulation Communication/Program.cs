@@ -51,7 +51,7 @@ namespace Simulation_Communication
             {
                 options.AddPolicy("DevCors", policy =>
                 {
-                    policy.WithOrigins("http://localhost:5174") // 前端地址
+                    policy.WithOrigins("http://localhost:5173") // 前端地址
                     .AllowAnyHeader()
                     .AllowAnyMethod()
                     .AllowCredentials(); // 如果前端需要传 cookies
@@ -60,6 +60,7 @@ namespace Simulation_Communication
 
             // 强制指定 URL 和端口
             //builder.WebHost.UseUrls("http://localhost:8888", "https://localhost:8899");
+            builder.WebHost.UseUrls("http://localhost:5226", "https://localhost:8899");
 
             builder.Services.AddSwaggerGen(x =>
             {
