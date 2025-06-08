@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simulation Communication_WPFUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4546e06d462c918955b5fd688a4b6c2bb8bf1fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72428294cbba4aa75ad5ad586db990783d19640b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simulation Communication_WPFUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simulation Communication_WPFUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

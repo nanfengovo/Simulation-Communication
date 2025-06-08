@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\viewmodels\\settingucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\viewmodels\\settingucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\viewmodels\\loginucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\viewmodels\\personalucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\viewmodels\\personalucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\settinguc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\settinguc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\httpclients\\httprestclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +67,8 @@
       "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\converters\\colortobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\viewmodels\\personalucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\viewmodels\\personalucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\viewmodels\\settingucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\viewmodels\\settingucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\personaluc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\loginuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\aboutusuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\aboutusuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\syssetuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\obj\\Debug\\net6.0-windows\\Views\\PersonalUC.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,18 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\obj\\Debug\\net6.0-windows\\Views\\PersonalUC.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simulation Communication_WPFUI\\obj\\Debug\\net6.0-windows\\Views\\PersonalUC.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\mainwin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\viewmodels\\mainwinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\views\\settinguc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|solutionrelative:simulation communication_wpfui\\views\\settinguc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2B4A931-CA9E-4AD7-96C2-881E43A7309B}|Simulation Communication_WPFUI\\Simulation Communication_WPFUI.csproj|e:\\code\\\u9879\u76EE--\u5B66\u4E60\\simulation communication\\ui\\wpf\\simulation communication_wpfui\\simulation communication_wpfui\\dtos\\accountinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -133,7 +133,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -157,72 +157,119 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\LoginUC.xaml",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\LoginUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\LoginUC.xaml",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\LoginUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T03:07:38.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SettingUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\SettingUCViewModel.cs",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\ViewModels\\SettingUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\SettingUCViewModel.cs",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\ViewModels\\SettingUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:09:39.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWin.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\MainWin.xaml",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\MainWin.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\MainWin.xaml",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\MainWin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T03:28:32.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonalUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\PersonalUC.xaml",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\PersonalUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\PersonalUC.xaml",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\PersonalUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T04:17:49.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\SettingUC.xaml",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\SettingUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\SettingUC.xaml",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\SettingUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T04:10:05.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SysSetUC.xaml",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\SysSetUC.xaml",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\SysSetUC.xaml",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\SysSetUC.xaml",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\SysSetUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T04:17:07.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonalUCViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\PersonalUCViewModel.cs",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\ViewModels\\PersonalUCViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\PersonalUCViewModel.cs",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\ViewModels\\PersonalUCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T04:19:03.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWinViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\MainWinViewModel.cs",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\ViewModels\\MainWinViewModel.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\MainWinViewModel.cs",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\ViewModels\\MainWinViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:29:39.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoginUCViewModel.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\LoginUCViewModel.cs",
               "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\ViewModels\\LoginUCViewModel.cs",
               "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\LoginUCViewModel.cs",
               "RelativeToolTip": "Simulation Communication_WPFUI\\ViewModels\\LoginUCViewModel.cs",
-              "ViewState": "AgIAAO4AAAAAAAAAAAArwP8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwNgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T03:17:44.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PasswordBoxExtend.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Extensions\\PasswordBoxExtend.cs",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Extensions\\PasswordBoxExtend.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Extensions\\PasswordBoxExtend.cs",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\Extensions\\PasswordBoxExtend.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAArwEQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T03:16:51.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApiRequest.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\ApiRequest.cs",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\HttpClients\\ApiRequest.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\ApiRequest.cs",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\HttpClients\\ApiRequest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T03:22:27.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\HttpClients\\ApiResponse.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\ApiResponse.cs",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\HttpClients\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T03:22:28.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginUC.xaml.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\LoginUC.xaml.cs",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\LoginUC.xaml.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\LoginUC.xaml.cs",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\LoginUC.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIA8wCoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T03:12:54.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\App.xaml.cs",
               "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\App.xaml.cs",
@@ -235,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "HttpRestClient.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\HttpRestClient.cs",
               "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\HttpClients\\HttpRestClient.cs",
@@ -249,31 +296,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "LoginUC.xaml",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\LoginUC.xaml",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\LoginUC.xaml",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\LoginUC.xaml",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\LoginUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T03:07:38.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SettingUCViewModel.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\SettingUCViewModel.cs",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\ViewModels\\SettingUCViewModel.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\SettingUCViewModel.cs",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\ViewModels\\SettingUCViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Title": "LoginUC.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\LoginUC.xaml.cs",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\LoginUC.xaml.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\LoginUC.xaml.cs",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\LoginUC.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA8wCoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T04:09:39.535Z",
+              "WhenOpened": "2025-06-01T03:12:54.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\HttpClients\\ApiResponse.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\ApiResponse.cs",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\HttpClients\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:22:28.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\HttpClients\\ApiRequest.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\HttpClients\\ApiRequest.cs",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\HttpClients\\ApiRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:22:27.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PasswordBoxExtend.cs",
+              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Extensions\\PasswordBoxExtend.cs",
+              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Extensions\\PasswordBoxExtend.cs",
+              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Extensions\\PasswordBoxExtend.cs",
+              "RelativeToolTip": "Simulation Communication_WPFUI\\Extensions\\PasswordBoxExtend.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAArwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:16:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "PersonalUC.g.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\obj\\Debug\\net6.0-windows\\Views\\PersonalUC.g.cs",
               "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\obj\\Debug\\net6.0-windows\\Views\\PersonalUC.g.cs",
@@ -286,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "PersonalUC.g.i.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\obj\\Debug\\net6.0-windows\\Views\\PersonalUC.g.i.cs",
               "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\obj\\Debug\\net6.0-windows\\Views\\PersonalUC.g.i.cs",
@@ -299,19 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SysSetUC.xaml",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\SysSetUC.xaml",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\SysSetUC.xaml",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\SysSetUC.xaml",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\SysSetUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T04:17:07.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "AboutUsUC.xaml",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\AboutUsUC.xaml",
               "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\AboutUsUC.xaml",
@@ -323,19 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PersonalUC.xaml",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\PersonalUC.xaml",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\PersonalUC.xaml",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\PersonalUC.xaml",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\PersonalUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T04:17:49.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ColorToBrushConverter.cs",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Converters\\ColorToBrushConverter.cs",
               "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Converters\\ColorToBrushConverter.cs",
@@ -344,19 +394,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T04:19:14.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PersonalUCViewModel.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\PersonalUCViewModel.cs",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\ViewModels\\PersonalUCViewModel.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\PersonalUCViewModel.cs",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\ViewModels\\PersonalUCViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T04:19:03.077Z",
               "EditorCaption": ""
             },
             {
@@ -386,30 +423,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SettingUC.xaml",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\SettingUC.xaml",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\SettingUC.xaml",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\SettingUC.xaml",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\SettingUC.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T04:10:05.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainWin.xaml",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\MainWin.xaml",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\Views\\MainWin.xaml",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Views\\MainWin.xaml",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\Views\\MainWin.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-01T03:28:32.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 24,
               "Title": "wind.png",
               "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\Images\\wind.png",
@@ -430,19 +443,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T03:35:40.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MainWinViewModel.cs",
-              "DocumentMoniker": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\MainWinViewModel.cs",
-              "RelativeDocumentMoniker": "Simulation Communication_WPFUI\\ViewModels\\MainWinViewModel.cs",
-              "ToolTip": "E:\\Code\\\u9879\u76EE--\u5B66\u4E60\\Simulation Communication\\UI\\WPF\\Simulation Communication_WPFUI\\Simulation Communication_WPFUI\\ViewModels\\MainWinViewModel.cs",
-              "RelativeToolTip": "Simulation Communication_WPFUI\\ViewModels\\MainWinViewModel.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAADwv1EAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T03:29:39.679Z",
               "EditorCaption": ""
             },
             {
